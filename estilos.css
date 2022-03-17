@@ -7,3 +7,17 @@
 .letra{
 color: black;
 }
+
+.tamaño{
+    
+    height: 40px;
+    width: 1000px;
+ }
+
+ .ostia{
+    flex-direction: column;
+}
+.letra2{
+color: white;
+text-align: center;
+}
